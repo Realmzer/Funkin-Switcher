@@ -32,7 +32,7 @@ ________________
 
 Git: 
 
- Go to /Dependencies/Git/Windows/Git-2.46.0-64-bit.exe/ for Windows. For Unix based go to, /Dependencies/Git/Linux/ then your Linux distro.
+ Go to https://git-scm.com/downloads/win for Windows. For Unix based go to, /Dependencies/Git/Linux/ then your Linux distro.
 
 ________________
  
