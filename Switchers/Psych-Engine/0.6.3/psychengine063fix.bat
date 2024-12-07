@@ -30,7 +30,7 @@ haxelib install hscript 2.5.0
 haxelib set hscript 2.5.0
 haxelib install lime-samples 7.0.0
 haxelib set lime-samples 7.0.0
-haxelib insall lime 8.0.1
+haxelib install lime 8.0.1
 haxelib set lime 8.0.1
 haxelib install openfl 9.2.1
 haxelib set openfl 9.2.1
