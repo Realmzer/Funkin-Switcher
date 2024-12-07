@@ -14,7 +14,7 @@ haxelib git flxanimate https://github.com/ShadowMario/flxanimate dev
 haxelib git flixel-addons https://github.com/HaxeFlixel/flixel-addons
 haxelib git linc_luajit https://github.com/superpowers04/linc_luajit
 haxelib git hxCodec https://github.com/polybiusproxy/hxCodec
-ib install flixel-addons 3.0.2
+haxelib install flixel-addons 3.0.2
 haxelib set flixel-addons 3.0.2
 haxelib install flixel-demos 2.9.0
 haxelib set flixel-demos 2.9.0
