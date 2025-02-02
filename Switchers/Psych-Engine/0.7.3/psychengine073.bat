@@ -32,10 +32,11 @@ haxelib install lime-samples 7.0.0
 haxelib set lime-samples 7.0.0
 haxelib install openfl-samples 8.7.0
 haxelib set openfl-samples 8.7.0
+haxelib install hxdiscord_rpc 1.2.4
+haxelib set hxdiscord_rpc 1.2.4
 haxelib git SScript-Reupload https://github.com/Realmzer/SScript-Reupload
 haxelib git flxanimate https://github.com/ShadowMario/flxanimate dev
 haxelib git linc_luajit https://github.com/superpowers04/linc_luajit
-haxelib git hxdiscord_rpc https://github.com/MAJigsaw77/hxdiscord_rpc
 echo Complete!
 pause
 
